@@ -3,6 +3,9 @@
 ## Project
 Financial Data Analytics I project analyzing Tesla (TSLA) and Disney (DIS) using CAPM, Fama-French 3-factor, and time series methods over January 3, 2011 – December 31, 2025 (daily data). Deliverables are a Jupyter notebook and a Word report. Pass/fail grading.
 
+## Source of Truth
+The authoritative project requirements are in `FDA1_Project_Factor_Model_Analysis_1_.pdf` in the project root. Do not read this file by default — the prompts and conventions in this CLAUDE.md already encode the necessary requirements. Read the PDF only when explicitly asked to verify a specific requirement, resolve ambiguity, or confirm a grading criterion.
+
 ## File Layout
 - `factor_model_analysis.ipynb` — main notebook
 - `fda1_stock_factor_data.csv` — provided FF factors + RF (read-only source)
