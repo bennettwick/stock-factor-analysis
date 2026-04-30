@@ -38,7 +38,7 @@ The authoritative project requirements are in `FDA1_Project_Factor_Model_Analysi
 - [x] Section 1: Data Assembly
 - [x] Section 2: Time Series Characterization
 - [x] Section 3: CAPM
-- [ ] Section 4: FF3
+- [x] Section 4: FF3
 - [ ] Section 5: Synthesis
 - [ ] Conclusion + report scaffold
 
