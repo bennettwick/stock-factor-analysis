@@ -40,7 +40,7 @@ The authoritative project requirements are in `FDA1_Project_Factor_Model_Analysi
 - [x] Section 3: CAPM
 - [x] Section 4: FF3
 - [x] Section 5: Synthesis
-- [ ] Conclusion + report scaffold
+- [x] Conclusion + report scaffold
 
 ## Style
 - Markdown cells explain **what the data shows and why a step is needed** — not narration of code steps.
