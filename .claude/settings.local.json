@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(git commit -m ' *)",
+      "Bash(.venv/Scripts/python _add_section3.py)",
+      "Bash(.venv/Scripts/pip install *)",
+      "Bash(uv add *)",
+      "Bash(.venv/Scripts/python.exe _add_section3.py)",
+      "Bash(python -c ' *)",
+      "Bash(.venv/Scripts/python.exe _add_section4.py)",
+      "Bash(.venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}
